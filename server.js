@@ -29,7 +29,7 @@ server.listen(process.env.PORT || 3001 );
 //   console.log("Connected!!!")
 // });
 
-const url = 'http://diendengiadung.com/api/'
+const url = ''
 const headers = { 'Authorization': 'Basic YWRtaW46cXRjdGVrQDEyMwx==' }
 
 var dem = 0;
